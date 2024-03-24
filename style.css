@@ -1,0 +1,14 @@
+body {
+    background-color: rgb(46, 46, 46);
+    color:antiquewhite;
+    font-weight: 1000;
+    text-align:center;
+}
+
+a:link {
+    color:aqua
+}
+
+a:visited {
+    color:rgb(222, 233, 255)
+}
